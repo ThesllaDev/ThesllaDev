@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [MDN Web Docs](https://developer.mozilla.org/pt-BR/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ThesllaDev](https://github.com/ThesllaDev)
+- 👨‍💻 All of my projects are available at [https://github.com/ThesllaDev?tab=repositories](https://github.com/ThesllaDev?tab=repositories)
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JS**
 
