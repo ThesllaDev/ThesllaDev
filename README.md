@@ -1,21 +1,27 @@
 <h1 align="center">Hi 👋, I'm Thalles Augusto</h1>
 <h3 align="center">A front-end development student</h3>
 
-- 🌱 I’m currently learning **Bootstrap, JS, Vue**
+- 📚 (I’m currently learning about)
+- 📚 Atualmente estou aprendendo sobre **CSS, Bootstrap, JS, Vue**
 
-- 👯 I’m looking to collaborate on [filosofunk](http://filosofunk.com.br/)
+- 🤝 (I’m looking to collaborate on)
+- 🤝 Estou procurando colaborar em [pokemongovet](https://pokemongovet.github.io/) / [inclusao-digital](https://inclusao.etica.ai/) / [filosofunk](http://filosofunk.com.br/)
 
-- 🤝 I’m looking for help with [MDN Web Docs](https://developer.mozilla.org/pt-BR/)
+- 📜 (I’m looking for help with)
+- 📜 Estou buscando conhecimentos em [MDN Web Docs](https://developer.mozilla.org/pt-BR/) / [W3Schools](https://www.w3schools.com/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ThesllaDev?tab=repositories](https://github.com/ThesllaDev?tab=repositories)
+- 👨‍💻 (All of my projects are available at)
+- 👨‍💻 Todos meus projetos estão disponiveis em [https://github.com/ThesllaDev?tab=repositories](https://github.com/ThesllaDev?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JS**
+- 💬 (Ask me about)
+- 💬 Pergunte-me sobre **HTML, CSS, Bootstrap, JS, Git, GitHub**
 
-- 📫 How to reach me **ThesllaDev@gmail.com**
+- 📫 How to reach me 
+- 📫 Onde me encontrar Email **ThesllaDev@gmail.com** / Linkedin **linkedin.com/in/thalles-augusto**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thalles-augusto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thalles-augusto" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thalles-augusto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thalles-augusto" height="30" width="40" color="blue" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
