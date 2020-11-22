@@ -5,7 +5,7 @@
 - 📚 Atualmente estou aprendendo sobre **CSS, Bootstrap, JS, Vue**
 
 - 🤝 (I’m looking to collaborate on)
-- 🤝 Estou procurando colaborar em [pokemongovet](https://pokemongovet.github.io/) / [inclusao-digital](https://inclusao.etica.ai/) / [filosofunk](http://filosofunk.com.br/)
+- 🤝 Estou procurando colaborar em [pokemongovet](https://pokemongovet.github.io/) / [inclusao-digital](https://etica.ai/) / [filosofunk](http://filosofunk.com.br/)
 
 - 📜 (I’m looking for help with)
 - 📜 Estou buscando conhecimentos em [MDN Web Docs](https://developer.mozilla.org/pt-BR/) / [W3Schools](https://www.w3schools.com/)
