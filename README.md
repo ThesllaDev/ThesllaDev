@@ -17,7 +17,7 @@
 - 💬 Pergunte-me sobre **HTML, CSS, Bootstrap, JS, Git, GitHub**
 
 - 📫 (How to reach me)
-- 📫 Onde me encontrar Email **ThesllaDev@gmail.com** / Linkedin **https://linkedin.com/in/thalles-augusto**
+- 📫 Onde me encontrar **Email** **ThesllaDev@gmail.com** / **Linkedin** **https://linkedin.com/in/thalles-augusto**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
