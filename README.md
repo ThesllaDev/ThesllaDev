@@ -2,7 +2,7 @@
 <h3 align="center">A front-end development student</h3>
 
 - 📚 (I’m currently learning about)
-- 📚 Atualmente estou aprendendo sobre **CSS, Bootstrap, JS, Vue**
+- 📚 Atualmente estou aprendendo sobre **Animações CSS, SASS, JS**
 
 - 🤝 (I’m looking to collaborate on)
 - 🤝 Estou procurando colaborar nos projetos [pokemongovet](https://pokemongovet.github.io/) / [inclusao-digital](https://etica.ai/) / [filosofunk](http://filosofunk.com.br/)
@@ -14,7 +14,7 @@
 - 👨‍💻 Todos meus projetos estão disponiveis em [https://github.com/ThesllaDev?tab=repositories](https://github.com/ThesllaDev?tab=repositories)
 
 - 💬 (Ask me about)
-- 💬 Pergunte-me sobre **HTML, CSS, Bootstrap, JS, Git, GitHub**
+- 💬 Pergunte-me sobre **HTML5, CSS3, SASS, Bootstrap, JS, Git, GitHub, Markdown**
 
 - 📫 (How to reach me)
 - 📫 Onde me encontrar **Email** **ThesllaDev@gmail.com** / **Linkedin** **https://linkedin.com/in/thalles-augusto**
