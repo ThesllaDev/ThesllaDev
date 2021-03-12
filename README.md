@@ -19,9 +19,9 @@
 - 📫 (How to reach me)
 - 📫 Onde me encontrar **Email** **ThesllaDev@gmail.com** / **Linkedin** **https://linkedin.com/in/thalles-augusto**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">✉️  Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thalles-augusto" target="blank"><img align="center" src="https://img.icons8.com/clouds/100/000000/linkedin.png" alt="linkedin thalles augusto" height="70" width="70" /></a>
+<a href="https://linkedin.com/in/thalles-augusto" target="blank"><img align="center" src="https://img.icons8.com/clouds/100/000000/linkedin.png" alt="linkedin thalles augusto" height="70" width="70" /></a> <a href="mailto:theslladev@gmail.com" target="_blank"><img src="https://img.icons8.com/clouds/100/000000/email.png" alt="email thalles augusto" align="center" height="70" width="70" /></a>
 </p>
 
 <h3 align="left"> 🛠 Languages and Tools:</h3>
