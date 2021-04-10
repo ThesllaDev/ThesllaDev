@@ -10,8 +10,8 @@
 - 📜 (I’m looking for help with)
 - 📜 Estou buscando conhecimentos em [MDN Web Docs](https://developer.mozilla.org/pt-BR/) / [W3Schools](https://www.w3schools.com/)
 
-- 👨‍💻 (All of my projects are available at)
-- 👨‍💻 Todos meus projetos estão disponiveis em [https://github.com/ThesllaDev?tab=repositories](https://github.com/ThesllaDev?tab=repositories)
+- 👨‍💻 (All of my projects are available at my repositories)
+- 👨‍💻 Todos meus projetos estão disponiveis em [meus repositórios](https://github.com/ThesllaDev?tab=repositories)
 
 - 💬 (Ask me about)
 - 💬 Pergunte-me sobre **HTML5, CSS3, SASS, Bootstrap, JS, Git, GitHub, Markdown**
