@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theslladev&show_icons=true&locale=en" alt="theslladev" /></p>
 
-Última atualização: 08/04/2021
+Última atualização: 11/04/2021
