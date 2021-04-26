@@ -16,8 +16,8 @@
 - 💬 (Ask me about)
 - 💬 Pergunte-me sobre **HTML5, CSS3, SASS, Bootstrap, JS, Git, GitHub, Markdown**
 
-- 📫 (How to reach me)
-- 📫 Onde me encontrar **Email** **ThesllaDev@gmail.com** / **Linkedin** **https://linkedin.com/in/thalles-augusto**
+- 📫 (Send me a message)
+- 📫 Me envie uma mensagem: **Email** **ThesllaDev@gmail.com** / **Linkedin** **[Thalles Augusto](https://linkedin.com/in/thalles-augusto)**
 
 <h3>✉️ Conecte-se comigo  (Connect with me)</h3>
 <p>
