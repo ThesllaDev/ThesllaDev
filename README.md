@@ -1,3 +1,4 @@
+<a href="https://github.com/ThesllaDev/ThesllaDev/blob/main/README-EN.md"><h3><u>***English version***</u></h3></a>
 <h1 align="center">Olá mundo 👋, meu nome é Thalles Augusto</h1>
 <h2 align="center">Sobre min:</h2>
 
