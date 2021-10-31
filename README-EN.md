@@ -10,7 +10,9 @@
 <section align="center"><h3>🌐 Connect with me:</h3> 
 <a href="https://www.linkedin.com/in/thalles-augusto/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ThesllaDev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://codepen.io/theslladev"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a></section>
+<a href="https://codepen.io/theslladev"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
+<a href="https://dev.to/theslladev"><img alt="DevTo" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+</section>
 
 ---
 
