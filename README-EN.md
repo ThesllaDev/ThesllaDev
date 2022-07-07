@@ -4,7 +4,7 @@
 
 <div>
     <img align="right" width="48%" alt="Octocat" src="https://raw.githubusercontent.com/ThesllaDev/ThesllaDev/main/images/my-octocat.png" />
-    <blockquote>I'm Brazilian and I'm currently studying web development with a focus on front end. I'm very hardworking, curious, always looking for challenges, new knowledge, I really enjoy collaborating on open source projects, playing sports and games.</blockquote>
+    <blockquote>I'm Brazilian and I'm constantly evolving to become a front-end focused web developer looking for an opportunity in the area. I'm hardworking, I like challenges, I love and have many interests in technology and I'm always looking to be a better person.</blockquote>
 </div>
 <br>
 <section align="center"><h3>🌐 Connect with me:</h3> 
@@ -16,40 +16,45 @@
 
 ---
 
-- 📚 I'm currently learning about: ***Animations CSS, SASS, JavaScript***
+- 📚 **I'm currently learning:** CSS animations using the SASS preprocessor
 
-- 🎯 I plan to learn in the future: Vue.js, React and TypeScript
+- 🎯 **I also intend to learn about:** ReactJs and TypeScript
 
-- 📜 I look for knowledge in: [MDN Web Docs](https://developer.mozilla.org/pt-BR/) / [W3Schools](https://www.w3schools.com/)
+- 📜 **I'm looking for knowledge in:** [MDN Web Docs](https://developer.mozilla.org/en-US/) e [freeCodeCamp](https://www.freecodecamp.org/)
 
-- 🤝 I'm looking to collaborate on projects: **[pokemongovet](https://github.com/pokemongovet/pokemongovet.github.io)** and **[inclusao-digital](https://github.com/EticaAI/inclusao-digital)**
+- 🤝 **I try to collaborate on the project: [inclusao-digital](https://github.com/EticaAI/inclusao-digital)**
 
-- 👨‍💻 All my projects are available at: [My repositories](https://github.com/ThesllaDev?tab=repositories)
+- 👨‍💻 **All my projects are available at:** [My repositories](https://github.com/ThesllaDev?tab=repositories)
 
-- 💬 Ask me about: **HTML5, CSS3, SASS, Bootstrap, JavaScript, Git, GitHub, Markdown**
+- 📨 **Send me a message so we can talk and if there's anything I can help with I'll be happy: Email:** ThesllaDev@gmail.com / **Linkedin:** [Thalles Augusto](https://linkedin.com/in/thalles-augusto)
 
-- 📨 Send me a message: **Email** **ThesllaDev@gmail.com** / **Linkedin** **[Thalles Augusto](https://linkedin.com/in/thalles-augusto)**
-
-- 📃 See my certificates: [My certificates](https://github.com/ThesllaDev/ThesllaDev/blob/main/myCertificates.md)
+- 📃 **See my certificates:** [My certificates](https://github.com/ThesllaDev/ThesllaDev/blob/main/myCertificates.md)
 
 ---
 
 <br>
-<h3 align="center"> 🛠️ My favorite tools:</h3>
+
+<h3 align="center"> 🛠️ Main languages and tools I use frequently:</h3>
 
 <div align="center">
-    <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
     <a href="https://www.w3schools.com/css/"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
-    <a href="https://www.figma.com/"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a>
     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
     <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="https://www.w3.org/html/"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
-    <a href="https://jquery.com/"><img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/></a>
-    <a href="https://nodejs.org/en/"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/></a>
     <a href="https://www.notion.so/"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
-    <a href="https://trello.com/"><img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/></a>
     <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
+</div>
+
+<h4 align="center"> 🛠️ Other knowledge:</h3>
+
+<div align="center">
+    <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
+    <a href="https://www.figma.com/"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a>
+    <a href="https://greensock.com/"><img alt="GreenSock" src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/></a>
+    <a href="https://jquery.com/"><img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/></a>
+    <a href="https://nodejs.org/en/"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
+    <a href="https://trello.com/"><img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/></a>
 </div>
 
 <br>
