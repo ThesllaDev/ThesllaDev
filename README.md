@@ -37,6 +37,7 @@
 <h3 align="center"> 🛠️ Principais linguagens e ferramentas que utilizo com frequência:</h3>
 
 <div align="center">
+    <a href="http://getbem.com/"><img alt="BEM" src="https://img.shields.io/badge/BEM-%23121011.svg?style=for-the-badge&logo=bem&logoColor=white"/></a>
     <a href="https://www.w3schools.com/css/"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
     <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
