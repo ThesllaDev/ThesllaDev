@@ -1,4 +1,5 @@
-<a href="https://github.com/ThesllaDev"><h3><u>***Versão em Português***</u></h3></a>
+<a href="https://github.com/ThesllaDev"><h3><u>**_Versão em Português_**</u></h3></a>
+
 <h1 align="center">Hello world 👋, my name is Thalles Augusto</h1>
 <h2 align="center">About me:</h2>
 
@@ -39,11 +40,13 @@
 <div align="center">
     <a href="http://getbem.com/"><img alt="BEM" src="https://img.shields.io/badge/BEM-%23121011.svg?style=for-the-badge&logo=bem&logoColor=white"/></a>
     <a href="https://www.w3schools.com/css/"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
+    <a href="https://eslint.org/"><img alt="ESLINT" src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/></a>
     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
     <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="https://www.w3.org/html/"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
     <a href="https://www.notion.so/"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+    <a href="https://prettier.io/"><img alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7B93E"/></a>
     <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
 </div>
 
