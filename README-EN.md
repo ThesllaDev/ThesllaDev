@@ -35,7 +35,7 @@
 
 <br>
 
-<h3 align="center"> 🛠️ Main languages and tools I use frequently:</h3>
+<h3 align="center"> 🛠️ Main technologies and knowledge:</h3>
 
 <div align="center">
     <a href="http://getbem.com/"><img alt="BEM" src="https://img.shields.io/badge/BEM-%23121011.svg?style=for-the-badge&logo=bem&logoColor=white"/></a>
