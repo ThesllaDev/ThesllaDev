@@ -40,6 +40,7 @@
 <div align="center">
     <a href="http://getbem.com/"><img alt="BEM" src="https://img.shields.io/badge/BEM-%23121011.svg?style=for-the-badge&logo=bem&logoColor=white"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
+    <a href="https://editorconfig.org/"><img alt="Editor config" src="https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000"/></a>
     <a href="https://eslint.org/"><img alt="ESLINT" src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/></a>
     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
     <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
