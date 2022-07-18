@@ -17,9 +17,9 @@
 
 ---
 
-- 📚 **I'm currently learning:** CSS animations using the SASS preprocessor
+- 📚 **I'm currently learning:** CSS animations using the SASS preprocessor and ReactJs for UI creation
 
-- 🎯 **I also intend to learn about:** ReactJs and TypeScript
+- 🎯 **Next topics I plan to study:** ReactRouter, Jest and TypeScript
 
 - 📜 **I'm looking for knowledge in:** [MDN Web Docs](https://developer.mozilla.org/en-US/) e [freeCodeCamp](https://www.freecodecamp.org/)
 
