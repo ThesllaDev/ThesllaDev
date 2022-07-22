@@ -17,11 +17,11 @@
 
 ---
 
-- 📚 **I'm currently learning:** CSS animations using the SASS preprocessor and ReactJs for UI creation
+- 📚 **I'm currently learning:** <abbr title="Cascading Style Sheets">CSS</abbr> animations using the <abbr title="Syntactically Awesome Style Sheets">SASS</abbr> preprocessor and ReactJs for <abbr title="User Interface">UI</abbr> creation
 
 - 🎯 **Next topics I plan to study:** ReactRouter, Jest and TypeScript
 
-- 📜 **I'm looking for knowledge in:** [MDN Web Docs](https://developer.mozilla.org/en-US/) e [freeCodeCamp](https://www.freecodecamp.org/)
+- 📜 **I'm looking for knowledge in:** [<abbr title="Mozilla Developer Network">MDN</abbr> Web Docs](https://developer.mozilla.org/en-US/) e [freeCodeCamp](https://www.freecodecamp.org/)
 
 - 🤝 **I try to collaborate on the project: [inclusao-digital](https://github.com/EticaAI/inclusao-digital)**
 
