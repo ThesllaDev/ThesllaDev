@@ -5,7 +5,7 @@
 <div>
     <img align="right" width="48%" alt="Octocat" src="https://raw.githubusercontent.com/ThesllaDev/ThesllaDev/main/images/my-octocat.png" />
     <blockquote>
-   Fascinado por tecnologia desde criança, comecei a aprofundar meus conhecimentos em desenvolvimento web com foco em front-end na vida adulta. Com uma base sólida em HTML5, CSS3, e JavaScript, tanto na forma vanilla quanto em bibliotecas e frameworks como Tailwind CSS, React, e Next.js, busco criar interfaces que seguem padrões, metodologias, e boas práticas, combinando design moderno com alta performance, usabilidade, responsividade e acessibilidade.
+   Fascinado por tecnologia e jogos desde criança, comecei a aprofundar meus conhecimentos em desenvolvimento web com foco em front-end na vida adulta. Adquiri experiência estudando conteúdos de diversas formas, através de documentações técnicas, artigos, tutoriais e vídeos, aplicando os conhecimentos de forma prática desenvolvendo vários projetos no processo. Com uma base sólida em HTML5, CSS3, e JavaScript, tanto na forma vanilla quanto em bibliotecas e frameworks como Tailwind CSS, React, e Next.js, busco criar interfaces que seguem padrões, metodologias, e boas práticas, combinando design moderno com alta performance, usabilidade, responsividade e acessibilidade.
    Também possuo conhecimentos em UI/UX, back-end e fundamentos de cibersegurança. Sou entusiasta de gamificação e open source, sempre buscando evoluir e colaborar ativamente em projetos open source para aprimorar minhas habilidades e contribuir com melhorias.
   </blockquote>
 </div>
@@ -105,6 +105,9 @@
   </a>
     <a href="https://www.json.org/json-pt.html">
    <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
+  </a>
+    <a href="https://developer.chrome.com/docs/lighthouse">
+   <img alt="Google Lighthouse" src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white"/>
   </a>
     <a href="https://prettier.io/">
    <img alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7B93E"/>
